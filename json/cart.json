@@ -1,0 +1,19 @@
+{
+    "fio":"Иванов Иван",
+    "date":"23.04.2021",
+    "goods": [
+        {
+            "id_product":100,
+            "product_name":"Ауди",
+            "price":1000,
+            "count":3
+        },
+       
+        {
+            "id_product":543,
+            "product_name":"Шкода",
+            "price":900,
+            "count":5
+        }
+    ]
+}

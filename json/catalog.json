@@ -1,0 +1,22 @@
+[
+    {
+        "id_product":100,
+        "product_name":"Ауди",
+        "price":1000
+    },
+    {
+        "id_product":353,
+        "product_name":"БМВ",
+        "price":1200
+    },
+    {
+        "id_product":335,
+        "product_name":"VW",
+        "price":910
+    },
+    {
+        "id_product":543,
+        "product_name":"Шкода",
+        "price":900
+    }
+]
