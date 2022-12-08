@@ -168,7 +168,7 @@ class GoodCart {//в этом классе описываем отдельные
                    if (x == i.id_product) {
                        console.log(cart.goods.indexOf(i));
                        cart.goods.splice(cart.goods.indexOf(i));
-                       console.log(cart.goods);
+
                    }
            }));
 
