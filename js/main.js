@@ -158,7 +158,7 @@ class GoodCart {//в этом классе описываем отдельные
     }
     clearBasket() {
         for (let i of cart.goods) {
-            console.log(i.id_product);
+            // console.log(i.id_product);
             let listClear = document.querySelectorAll(`#clr_${i.id_product}`);
             console.log(listClear);
            listClear.forEach(item=>  item.addEventListener('click',(event)=>{
